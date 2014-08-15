@@ -11,7 +11,7 @@ ps:图片还是引用的官方的
 
 ###目录
 
-###0X01 Getting started
+###0x01 Getting started
 **你的首个多屏网站**
 
 01.创建网站的内容和结构
