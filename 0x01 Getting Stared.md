@@ -315,5 +315,5 @@
 我们已经创建好了网站的大纲，确定了全部的主要框架元素。我们确信所有相关内容已经准备妥当，以满足我们业务的需求。
 
 ![总结](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/images/content.png)
-
+![总结](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/images/narrowsite.png)
 你会发现，网页现在看起来相当完美了，这是已经设计完的效果。内容是任何网站最重要的方面。我们需要确保拥有良好的信息架构和坚实的信息密度。这篇指南提供了优秀的创建网站基础。我们将在下一篇指南中为内容设计样式。
